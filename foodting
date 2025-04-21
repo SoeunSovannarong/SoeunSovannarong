@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Special foods</title>
+    <link rel="stylesheet" href="food.css">
+    <header>
+        <nav>
+            <div class="logo">Flavor Junction</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#recipes">Recipes</a></li>
+                <li><a href="#categories">Categories</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home" class="hero">
+        <h1>Famous Khmer dishes in Cambodia</h1>
+        <p>Explore thousands of recipes from around the world and find your next culinary adventure</p>
+        
+        <div class="search-bar">
+            <input type="text" placeholder="Search for recipes...">
+            <button>Search</button>
+        </div>
+        
+        <a href="#recipes" class="btn">Explore Popular Recipes</a>
+    </section>
+    
+    <section id="categories" class="featured-categories">
+        <div class="section-title">
+            <h2>ម្ហូបអាហារខ្មែរពេញនិយម</h2>
+            <p>Explore our diverse collection of recipes organized by category</p>
+        </div>
+        
+        <div class="categories">
+            <div class="category">
+                <img src="/food Modern/img/jpg1.webp" alt="Breakfast">
+                <div class="category-content">
+                    <h3>បង្កងសមុទ្រ</h3>
+                    <p>Start your day with these delicious breakfast recipes</p>
+                    <a href="#" class="btn">View Recipes</a>
+                </div>
+            </div>
+            
+            <div class="category">
+                <img src="/food Modern/img/jpg2.webp" alt="Main Courses">
+                <div class="category-content">
+                    <h3>នំបញ្ចុកកោះកុង</h3>
+                    <p>Hearty and satisfying dishes for lunch and dinner</p>
+                    <a href="#" class="btn">View Recipes</a>
+                </div>
+            </div>
+            
+            <div class="category">
+                <img src="/food Modern/img/jpg3.webp" alt="Desserts">
+                <div class="category-content">
+                    <h3>សៀងប្រហុក</h3>
+                    <p>Sweet treats to satisfy your cravings</p>
+                    <a href="#" class="btn">View Recipes</a>
+                </div>
+            </div>
+            
+            <div class="category">
+                <img src="/food Modern/img/jpg4.webp" alt="Vegetarian">
+                <div class="category-content">
+                    <h3>បរបល្ពៅខ្ទិះខ្មែរ</h3>
+                    <p>Delicious meat-free recipes packed with flavor</p>
+                    <a href="#" class="btn">View Recipes</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="recipes" class="popular-recipes">
+        <div class="section-title">
+            <h2>Popular Recipes</h2>
+            <p>Our most loved recipes from around the world</p>
+        </div>
+        
+        <div class="recipes-grid">
+            <div class="recipe-card">
+                <div class="recipe-image">
+                    <img src="/food Modern/img/jpg5.webp" alt="Spaghetti Carbonara">
+                    <div class="recipe-time">25 min</div>
+                </div>
+                <div class="recipe-content">
+                    <h3>Spaghetti Carbonara</h3>
+                    <div class="recipe-meta">
+                        <span>Italian</span>
+                        <span>Difficulty: Easy</span>
+                    </div>
+                    <p class="recipe-desc">A classic Italian pasta dish with creamy egg sauce, pancetta, and cheese.</p>
+                    <a href
+Last edited 8 minutes ago
+
+
+
